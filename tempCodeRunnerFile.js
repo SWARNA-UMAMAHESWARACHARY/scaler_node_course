@@ -1,0 +1,1 @@
+cp.execSync('calc')
